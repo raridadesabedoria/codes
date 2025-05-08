@@ -1,0 +1,12 @@
+{
+  "valid": {
+    "ESCASSEZLINDO": { "reward": "coins", "amount": 50 },
+    "SOLTAOORUAM": { "reward": "coins", "amount": 50 },
+    "FELIZPASCOA2025": { "reward": "coins", "amount": 500 },
+    "200KVISITAS": { "reward": "coins", "amount": 500 },
+    "5KFAVS": { "reward": "coins", "amount": 500 }
+  },
+  "expired": {
+    "100KVISITAS": true
+  }
+}
