@@ -1,21 +1,6 @@
 {
   "validCodes": [
     {
-      "code": "WEAREBACK",
-      "reward": "coins",
-      "amount": 500
-    },
-    {
-      "code": "AGUAECOCO",
-      "reward": "coins",
-      "amount": 50
-    },
-    {
-      "code": "SUMMER2025",
-      "reward": "coins",
-      "amount": 500
-    },
-    {
       "code": "NEWWINGS!",
       "reward": "coins",
       "amount": 500
@@ -24,6 +9,9 @@
   "expiredCodes": [
     "100KVISITAS",
     "200KVISITAS",
-    "FELIZPASCOA2025"
+    "FELIZPASCOA2025",
+    "WEAREBACK",
+    "AGUAECOCO",
+    "SUMMER2025"
   ]
 }
