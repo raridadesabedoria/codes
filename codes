@@ -14,6 +14,11 @@
       "code": "SUMMER2025",
       "reward": "coins",
       "amount": 500
+    },
+    {
+      "code": "NEWWINGS!",
+      "reward": "coins",
+      "amount": 500
     }
   ],
   "expiredCodes": [
