@@ -4,6 +4,11 @@
       "code": "NEWWINGS!",
       "reward": "coins",
       "amount": 500
+    },
+    {
+      "code": "FREECOINS!",
+      "reward": "coins",
+      "amount": 500
     }
   ],
   "expiredCodes": [
