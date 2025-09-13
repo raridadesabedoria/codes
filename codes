@@ -9,6 +9,11 @@
       "code": "FREECOINS!",
       "reward": "coins",
       "amount": 500
+    },
+    {
+      "code": "LETSGOHALLOWEEN!!",
+      "reward": "spins",
+      "amount": 5
     }
   ],
   "expiredCodes": [
