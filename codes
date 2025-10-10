@@ -1,17 +1,7 @@
 {
   "validCodes": [
     {
-      "code": "NEWWINGS!",
-      "reward": "coins",
-      "amount": 500
-    },
-    {
       "code": "2KMEMBERS!!",
-      "reward": "coins",
-      "amount": 500
-    },
-    {
-      "code": "FREECOINS!",
       "reward": "coins",
       "amount": 500
     },
